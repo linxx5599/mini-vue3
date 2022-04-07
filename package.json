@@ -1,0 +1,30 @@
+{
+  "name": "mini-vue3",
+  "version": "0.0.1",
+  "description": "vue3 源码 学习",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:w": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linxx5599/mini-vue3.git"
+  },
+  "keywords": [],
+  "author": "linjy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/linxx5599/mini-vue3/issues"
+  },
+  "homepage": "https://github.com/linxx5599/mini-vue3#readme",
+  "devDependencies": {
+    "@types/jest": "^27.4.1",
+    "jest": "^27.5.1",
+    "typescript": "^4.6.3",
+    "@babel/core": "^7.17.8",
+    "@babel/preset-env": "^7.16.11",
+    "@babel/preset-typescript": "^7.16.7",
+    "babel-jest": "^27.5.1"
+  }
+}
