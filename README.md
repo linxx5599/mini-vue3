@@ -5,11 +5,11 @@ vue3 源码 学习 基于 jest typescript
 ```bash
 ├── src # 源代码
 │ ├── reactivity
-│ │ ├── tests # tests
-│ │ │ ├── index.ts # jest 搭建测试
-│ │ └──── restive.ts # reactive & readonly
+│ ├── ├── tests # tests
+│ ├── ├── ├── index # jest 搭建测试
+│ ├── ├── ├── restive # reactive & readonly
 │ ├── shared # 放置公共方法
-│ └── index # shared
+│ ├── ├── index # shared
 ├── .gitignore # git 忽视文件
 ├── .npmignore # npm 忽视文件
 ├── babel.config.js # babel 配置
